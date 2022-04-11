@@ -1,1 +1,19 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: royalblue;
+}
+.box{
+   margin-top: 20%;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+}
+.box form{
+    padding: 5%;
+    background-color: darkorange;
 
+}
